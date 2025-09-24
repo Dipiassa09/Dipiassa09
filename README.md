@@ -8,10 +8,10 @@
 - ⚡ Curiosidade: Gosto de assitir séries e comer pipoca
 
 ## 🎓 Estou aprendendo sobre:
-- 🐍 Python
-- 🌐 - 🔹 Front-end moderno com *HTML, CSS e JavaScript*
-- 🗄️ MySQL / SQLite
-- ⚙️ Git & GitHub
+- 🐍 *Python*
+- 🌐 *Front-end moderno com HTML, CSS e JavaScript*
+- 🗄️ *MySQL / SQLite*
+- ⚙️ *Git & GitHub*
 
 ## 📬 Contatos
 - <a href="https://www.instagram.com/dipiassa_pietro/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
