@@ -1,4 +1,4 @@
-## Olá pessoal, me chamo Pietro 👋
+## 👋 Olá pessoal, me chamo Pietro
 
 - 🔭 Atualmente estou trabalhando em fabricações de luvas, aventais e mangotes
 - 🚀 Sempre busco novos desafios para evoluir minhas habilidades técnicas e contribuir com projetos de impacto.
@@ -7,13 +7,13 @@
 - 😄 Pronomes: Ele(a)
 - ⚡ Curiosidade: Gosto de assitir séries e comer pipoca
 
-## Estou aprendendo sobre:
+## 🎓 Estou aprendendo sobre:
 - 🐍 Python
 - 🌐 HTML, CSS, JavaScript
 - 🗄️ MySQL / SQLite
 - ⚙️ Git & GitHub
 
-## Contato
+## 📬 Contato
 - 📧 Email: pietro.tapia@aluno.senai.br
 
 ## ✨ Obrigado por visitar meu perfil!  
