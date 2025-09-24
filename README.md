@@ -14,3 +14,7 @@
 - 🌐 HTML, CSS, JavaScript
 - 🗄️ MySQL / SQLite
 - ⚙️ Git & GitHub
+
+## Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
