@@ -9,4 +9,6 @@
 - 😄 Pronomes: kkkkkk
 - ⚡ Curiosidade: Gosto de assitir séries e comer pipoca
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+- Estou aprendendo sobre:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
