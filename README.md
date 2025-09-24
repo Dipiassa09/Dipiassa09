@@ -10,5 +10,7 @@
 - ⚡ Curiosidade: Gosto de assitir séries e comer pipoca
 
 ## Estou aprendendo sobre:
-<i class="devicon-aarch64-plain colorido"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+- 🐍 Python
+- 🌐 HTML, CSS, JavaScript
+- 🗄️ MySQL / SQLite
+- ⚙️ Git & GitHub
