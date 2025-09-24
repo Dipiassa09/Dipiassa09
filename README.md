@@ -9,6 +9,5 @@
 - 😄 Pronomes: kkkkkk
 - ⚡ Curiosidade: Gosto de assitir séries e comer pipoca
 
-- Estou aprendendo sobre:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+## Estou aprendendo sobre:
+<i class="devicon-aarch64-plain colorido"></i>
