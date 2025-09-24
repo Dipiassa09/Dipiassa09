@@ -33,5 +33,5 @@
 
 ---
 
-✨ Obrigado por visitar meu perfil!  
+## ✨ Obrigado por visitar meu perfil!  
 Se gostou dos meus projetos, considere deixar uma ⭐ nos repositórios 😉
