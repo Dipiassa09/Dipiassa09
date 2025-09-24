@@ -23,7 +23,7 @@
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   
-  <a href="mailto:pietrindipiassa@gmail.com.br">
+  <a href="pietrindipiassa@gmail.com.br">
     <img loading="lazy" src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
