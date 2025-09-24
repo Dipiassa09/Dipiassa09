@@ -1,7 +1,8 @@
-# 👋 Olá, pessoal! Me chamo Pietro  
+## 👋 Olá, pessoal! Me chamo Pietro  
 
 ---
 
+## ✌️ Um pouco sobre mim
 - 🔭 Atualmente trabalhando com **fabricação de luvas, aventais e mangotes**  
 - 🚀 Sempre em busca de **novos desafios** para evoluir minhas habilidades técnicas  
 - 💬 Pergunte-me sobre **futebol (sou fã demais ⚽)** 
