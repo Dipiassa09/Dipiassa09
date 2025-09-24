@@ -1,12 +1,10 @@
 ## Olá pessoal, me chamo Pietro 👋
 
 - 🔭 Atualmente estou trabalhando em fabricações de luvas, aventais e mangotes
-- 🌱 Atualmente estou aprendendo a programar
-- 👯 Estou procurando colaborar em grupo com meus amigos e companheiros de sala
-- 🤔 Não estou procurando ajuda em nada (atualmente)
+- 🚀 Sempre busco novos desafios para evoluir minhas habilidades técnicas e contribuir com projetos de impacto.
 - 💬 Pergunte-me sobre Futebol (gosto muito)
 - 📫 Como entrar em contato comigo: comentar sobre algo que eu goste ou ser indicado por alguém que eu conheça
-- 😄 Pronomes: kkkkkk
+- 😄 Pronomes: Ele(a)
 - ⚡ Curiosidade: Gosto de assitir séries e comer pipoca
 
 ## Estou aprendendo sobre:
@@ -17,3 +15,6 @@
 
 ## Contato
 - 📧 Email: pietro.tapia@aluno.senai.br
+
+✨ Obrigado por visitar meu perfil!  
+Se gostou dos meus projetos, considere deixar uma ⭐ nos repositórios 😉
