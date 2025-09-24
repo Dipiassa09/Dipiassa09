@@ -10,10 +10,10 @@
 ---
 
 ## 🎓 Estou aprendendo sobre
-- 🐍 **Python**  
-- 🌐 **Front-end moderno com HTML, CSS e JavaScript**  
-- 🗄️ **MySQL / SQLite**  
-- ⚙️ **Git & GitHub**  
+- 🐍 *Python*
+- 🌐 *Front-end moderno com HTML, CSS e JavaScript*  
+- 🗄️ *MySQL / SQLite*  
+- ⚙️ *Git & GitHub*  
 
 ---
 
