@@ -1,11 +1,11 @@
 # 👋 Olá, pessoal! Me chamo Pietro  
 
-🔭 Atualmente trabalhando com **fabricação de luvas, aventais e mangotes**  
-🚀 Sempre em busca de **novos desafios** para evoluir minhas habilidades técnicas  
-💬 Pergunte-me sobre **futebol (sou fã demais ⚽)** 
-📫 Como entrar em contato: **comentar sobre algo que eu goste ou ser indicado por alguém que eu conheça**  
-😄 Pronomes: **Ele/Dele**  
-⚡ Curiosidade: adoro **games, ouvir música e assistir séries/filmes** 🎮🎶🎬  
+- 🔭 Atualmente trabalhando com **fabricação de luvas, aventais e mangotes**  
+- 🚀 Sempre em busca de **novos desafios** para evoluir minhas habilidades técnicas  
+- 💬 Pergunte-me sobre **futebol (sou fã demais ⚽)** 
+- 📫 Como entrar em contato: **comentar sobre algo que eu goste ou ser indicado por alguém que eu conheça**  
+- 😄 Pronomes: **Ele/Dele**  
+- ⚡ Curiosidade: adoro **games, ouvir música e assistir séries/filmes** 🎮🎶🎬  
 
 ---
 
