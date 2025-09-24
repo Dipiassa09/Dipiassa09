@@ -15,7 +15,7 @@
 
 ## 📬 Contato
 - <a href="https://www.instagram.com/dipiassa_pietro/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-- <a href = "pietro.tapia@aluno.senai.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- <a href = "pietrindipiassa@gmail.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## ✨ Obrigado por visitar meu perfil!  
 Se gostou dos meus projetos, considere deixar uma ⭐ nos repositórios 😉
