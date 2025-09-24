@@ -9,7 +9,7 @@
 
 ## 🎓 Estou aprendendo sobre:
 - 🐍 Python
-- 🌐 HTML, CSS, JavaScript
+- 🌐 - 🔹 Front-end moderno com *HTML, CSS e JavaScript*
 - 🗄️ MySQL / SQLite
 - ⚙️ Git & GitHub
 
