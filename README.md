@@ -16,5 +16,5 @@
 ## Contato
 - 📧 Email: pietro.tapia@aluno.senai.br
 
-✨ Obrigado por visitar meu perfil!  
+## ✨ Obrigado por visitar meu perfil!  
 Se gostou dos meus projetos, considere deixar uma ⭐ nos repositórios 😉
